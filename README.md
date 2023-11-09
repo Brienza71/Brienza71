@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% />
 &nbsp;&nbsp;&nbsp;
 
-## <p align="center">DESENVOLVEDOR FULL STACK. <br><br>Sou programador a 3 anos, mas com experiencias em diversas áreas da tecnologia. Atualmente, tenho foco em desenvolvimento React e Java!</p>&nbsp;
+## <p align="center">DESENVOLVEDOR FULL STACK. <br><br>Sou programador a 3 anos, mas com experiências em diversas áreas da tecnologia. Atualmente, tenho foco em desenvolvimento React e Java!</p>&nbsp;
  
  &nbsp;
  &nbsp;
