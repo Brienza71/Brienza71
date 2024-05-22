@@ -8,9 +8,9 @@
 
 
 
-## My Skills
+## Skills
 
-#### Main Stack:
+#### Main Stacks:
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Java](https://img.shields.io/badge/Java-FA7343?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
@@ -36,7 +36,6 @@
 &nbsp;
 
 ## Contacts:
-
 
  
 
