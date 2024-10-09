@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% />
 &nbsp;&nbsp;&nbsp;
 
-## <p align="center">DESENVOLVEDOR FULL STACK. <br><br>Sou programador a 3 anos, mas com experiências em diversas áreas da tecnologia. Atualmente, tenho foco em desenvolvimento React e Java!</p>&nbsp;
+## <p align="center">DESENVOLVEDOR FULL STACK. <br><br>Sou programador a 3 anos, mas com experiências em diversas áreas da tecnologia. Atualmente, tenho foco em desenvolvimento AngularJS e Java!</p>&nbsp;
  
  &nbsp;
  &nbsp;
@@ -12,7 +12,7 @@
 
 #### Main Stacks:
 
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![React.js]([https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white))&nbsp;
 ![Java](https://img.shields.io/badge/Java-FA7343?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
