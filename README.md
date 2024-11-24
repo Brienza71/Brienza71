@@ -1,44 +1,67 @@
-<img align="center" style="margin-bottom:100px" width=100% />
-&nbsp;&nbsp;&nbsp;
+<h1 align="left">DEVELOPER FULLSTACK  </h1>
+  <img align="right" height="250" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+<br>
 
-## <p align="center">DESENVOLVEDOR FULL STACK. <br><br>Sou programador a 3 anos, mas com experiências em diversas áreas da tecnologia. Atualmente, tenho foco em desenvolvimento AngularJS e Java!</p>&nbsp;
- 
- &nbsp;
- &nbsp;
+</div>
 
+<br>
+<br>
+<br>
 
+<p align="left">Sou um desenvolvedor Full Stack Jr com foco em Java e Angular, mas com experiência em diversas áreas da tecnologia! Atuo no desenvolvimento Front-end com Angular, criando interfaces dinâmicas e responsivas. No Back-end, utilizo Java e Spring Boot para construir aplicações robustas e escaláveis.
+  </p>
+<div align=right>
 
-## Skills
+<br>
+<br>
+<br>
 
-#### Main Stacks:
-
-![AngularJs](https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-FA7343?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+<h2 align="left">Tecnologias</h2>
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<div align="left">
 
-
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
- 
-
+ <img src="https://skillicons.dev/icons?i=angular" height="40" alt=" angular logo"  />
+ <img width="12" />
+ <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+ <img width="12" /> 
+ <img src="https://skillicons.dev/icons?i=spring" height="40" alt=" spring logo"  />
+ <img width="12" />
+ <img src="https://skillicons.dev/icons?i=ts" height="40" alt=" rs logo"  />
+ <img width="12" />
   
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+ 
+ 
+ 
+</div>
+
+###
+
+<h2 align="left">Social media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gregoriodelucca/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="gregoriodelucca@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=11971108462" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo" />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Brienza71" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<br clear="both">
+
+
+###
