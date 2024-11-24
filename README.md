@@ -44,7 +44,12 @@
 
 <br>
 <br>
-  
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brienza71&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brienza71&layout=compact&theme=radical)
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 
